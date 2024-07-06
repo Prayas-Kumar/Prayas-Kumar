@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey peeps 👋
 - I am Prayas,from India.
 - I am a DevOps♾️ and Open Source📂 Enthusiast
 - CSE Undergrad' 26👨‍💻
