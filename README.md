@@ -4,11 +4,12 @@
 - CSE Undergrad' 26👨‍💻
    # My skills are:
 - Linux🐧
-- Python🐍
-- AWS☁️
 - Docker🐳
 - Kubernetes⚙️
+- AWS☁️
+- Python🐍
 - Terraform
 - CICD
 - Ansible
 - Github Actions
+
